@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+@theme {
+  --color-velvetBurgundy: #5B0612;
+  --color-velvetGold: #D4AF37;
+  --color-velvetDark: #1A1A1A;
+}
